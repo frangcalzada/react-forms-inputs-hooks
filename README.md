@@ -18,5 +18,5 @@ Este es un proyecto de práctica con **React + Vite**, orientado a trabajar con 
 Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/react-forms-inputs-hooks.git
+git clone https://github.com/frangcalzada/react-forms-inputs-hooks.git
 cd react-forms-inputs-hooks
